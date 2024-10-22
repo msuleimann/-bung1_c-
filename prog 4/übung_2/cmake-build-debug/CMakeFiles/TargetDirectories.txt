@@ -1,0 +1,3 @@
+/Users/suleiman/Downloads/Prog 4/ueb02C--master/cmake-build-debug/CMakeFiles/uebung2Prg4.dir
+/Users/suleiman/Downloads/Prog 4/ueb02C--master/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/suleiman/Downloads/Prog 4/ueb02C--master/cmake-build-debug/CMakeFiles/rebuild_cache.dir

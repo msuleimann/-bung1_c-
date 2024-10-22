@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++ -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/ersteUebung.dir/Arrays.cpp.o CMakeFiles/ersteUebung.dir/Mathe.cpp.o CMakeFiles/ersteUebung.dir/Dialog.cpp.o CMakeFiles/ersteUebung.dir/Random.cpp.o -o ersteUebung 

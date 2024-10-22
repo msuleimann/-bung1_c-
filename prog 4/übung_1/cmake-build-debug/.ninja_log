@@ -1,0 +1,20 @@
+# ninja log v5
+4	59	7375067806371566	CMakeFiles/ersteUebung.dir/main.cpp.obj	76811e67e9e82e8d
+8	451	7375070382119636	CMakeFiles/ersteUebung.dir/Modul_Arrays.cpp.obj	df0ac745cd387d15
+11	623	7375067581002451	CMakeFiles/ersteUebung.dir/Modul_Mathe.cpp.obj	33351a15d2f44dfb
+16	627	7375067581044921	CMakeFiles/ersteUebung.dir/Dialog.cpp.obj	55b7ba701d879893
+452	553	7375070383077957	ersteUebung.exe	d92a27ca69aed18f
+79	511	7375126044761995	CMakeFiles/ersteUebung.dir/Random.cpp.obj	dfc91860467644f5
+68	706	7375126046710496	CMakeFiles/ersteUebung.dir/Mathe.cpp.obj	e29801a9bf0aa6aa
+58	739	7375126047045010	CMakeFiles/ersteUebung.dir/Arrays.cpp.obj	6eb144cfea58f9e5
+74	745	7375126047111745	CMakeFiles/ersteUebung.dir/Dialog.cpp.obj	55b7ba701d879893
+745	1112	7375126050726278	ersteUebung.exe	60432dacfffcedf5
+15	423	7375126359502115	CMakeFiles/ersteUebung.dir/Dialog.cpp.obj	55b7ba701d879893
+424	515	7375126360379221	ersteUebung.exe	60432dacfffcedf5
+11	405	7375126457099885	CMakeFiles/ersteUebung.dir/Dialog.cpp.obj	55b7ba701d879893
+406	503	7375126458031769	ersteUebung.exe	60432dacfffcedf5
+70	408	7375150642921263	CMakeFiles/ersteUebung.dir/Random.cpp.obj	dfc91860467644f5
+64	627	7375150645090944	CMakeFiles/ersteUebung.dir/Dialog.cpp.obj	55b7ba701d879893
+59	649	7375150645326060	CMakeFiles/ersteUebung.dir/Mathe.cpp.obj	e29801a9bf0aa6aa
+24	672	7375150645561227	CMakeFiles/ersteUebung.dir/Arrays.cpp.obj	6eb144cfea58f9e5
+672	873	7375150647458622	ersteUebung.exe	60432dacfffcedf5
